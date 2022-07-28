@@ -2,7 +2,7 @@ table {
 	table-layout: fixed;
 	width: 100%;
 	border-collapse: collapse;
-	border: 3px solid rgb(0, 62, 128);
+	border: 3px solid rgb(166, 177, 247);
 	background-color: rgb(2, 66, 138);
 	padding-bottom: 20px;
   }
@@ -15,7 +15,7 @@ table {
 	letter-spacing: 2px;
 	font-weight: 900;
 	background-color: rgb(2, 66, 138);
-	border: 3px solid rgb(1, 43, 88);
+	border: 3px solid rgb(24, 1, 88);
   }
   
   td {
@@ -47,5 +47,5 @@ table {
   }
   
   .warning {
-	  background-color: #da8a8a;
+	  background-color: #CBA69E;
   }
